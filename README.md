@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <li>Selenium</li>
   <li>BeautifulSoup</li>
   <li>Pandas</li>
-  <li>C#</li>
+  <li>Java</li>
 </ul>
 
 <hr>
