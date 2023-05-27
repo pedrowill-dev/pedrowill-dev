@@ -21,47 +21,15 @@ Here are some ideas to get you started:
 
 ## Sobre mim
 
-<p>E aí, galera! Beleza? Eu sou o Pedro, conhecido como criador de robô e um amante de tecnologia. Adoro criar soluções que tornem a vida das pessoas mais fácil e eficiente. E quando não estou codando, estou sempre buscando novas formas de contribuir para a comunidade de desenvolvimento.</p>
+Desenvolvedor RPA e backend com experiência em melhoria em processos empresariais. comunicativo, construtivo e ativo na comunidade de desenvolvimento e automação, oferecendo mentoria para que outros devs alcancem seus objetivos profissionais.
 
-<p>Adoro compartilhar meus conhecimentos em tecnologia com a galera, e também gosto muito de aprender com os outros. É por isso que sempre tento me envolver em eventos, fóruns e grupos de discussão sobre desenvolvimento e automação em geral.</p>
- 
-<p>Tenho habilidades em automação de processos empresariais e sou certificado em Bot Developer 360 e Advanced RPA Professional pela Automation Anywhere. Além disso, tenho experiência em gerenciamento de projetos e certificações em Lean Six-Sigma White Belt e Scrum Foundations (SFPC) da CertiProf.</p>
- 
-<p>E claro, possuo habilidades em Python, Selenium, BeautifulSoup, Pandas e C#. Mas o que mais me motiva é compartilhar meu conhecimento com a galera e aprender com os outros. Então, se precisar de ajuda com algum projeto, ou quiser bater um papo sobre tecnologia, é só me chamar! Vamos trocar ideias, aprender juntos e contribuir para a comunidade!</p>
-<hr>
+Conhecimento em diferentes bancos de dados, incluindo SQL Server, Oracle Server, SQLite e MongoDB. Também estou familiarizado com frameworks e bibliotecas como Pandas, BeautifulSoup (bs4), Vaex, Seaborn e Matplotlib, que são úteis para análise e manipulação de dados.
 
-<h3>Automação de Processos Robóticos (RPA)</h3>
-<ul>
-  <li>🤖Certificação em Bot Developer 360 pela Automation Anywhere</li>
-  <li>🤖Certificação Advanced RPA Professional pela Automation Anywhere</li>
-</ul>
+No desenvolvimento web, tenho experiência com Flask e FastAPI, frameworks populares para construção de aplicativos web em Python.
 
-<h3> Gerenciamento de projetos</h3>
-<ul>
-  <li>📈 Certificação Lean Six-Sigma White Belt pela FM2S</li>
-  <li>📈 Certificação Scrum Foundations (SFPC) da CertiProf </li>
-</ul>
-  
-<h3>  Linguagens e Bibliotecas</h3>
-<ul>
-  <li>Python</li>
-  <li>Selenium</li>
-  <li>BeautifulSoup</li>
-  <li>Pandas</li>
-  <li>Java</li>
-</ul>
+Na automação de processos, possuo experiência com a ferramenta Automation Anywhere (AA360) e também desenvolvo automações utilizando Python e suas bibliotecas, como selenium, bs4, requests e async.
 
-<hr>
-
-## Competências Comportamentais
-
-
-🗣️ Comunicação em público<br>
-💪 Força de vontade em encontrar soluções que às vezes parecem impossíveis<br>
-🎓 Ensinar e aprender com pessoas
-## Projetos
-
-Este repositório contém alguns dos meus projetos, onde compartilho soluções para problemas comuns de automação de processos empresariais e gerenciamento de projetos. Sinta-se à vontade para explorar e contribuir!
+Estou sempre em busca de oportunidades para utilizar minhas habilidades e conhecimentos em prol da melhoria dos processos empresariais, buscando soluções eficientes e automatizadas.
 
 ## Contato
 
