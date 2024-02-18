@@ -21,16 +21,11 @@ Here are some ideas to get you started:
 
 ## Sobre mim
 
-Desenvolvedor RPA e backend com experiência em melhoria em processos empresariais. comunicativo, construtivo e ativo na comunidade de desenvolvimento e automação, oferecendo mentoria para que outros devs alcancem seus objetivos profissionais.
+Desenvolvedor RPA e Especialista em Automação, com experiência na otimização de processos empresariais em diversos setores e sistemas. Possuo expertise na criação de soluções personalizadas em automação com Python e Flask, integrando ERPs, bancos de dados, APIs e web services.
 
-Conhecimento em diferentes bancos de dados, incluindo SQL Server, Oracle Server, SQLite e MongoDB. Também estou familiarizado com frameworks e bibliotecas como Pandas, BeautifulSoup (bs4), Vaex, Seaborn e Matplotlib, que são úteis para análise e manipulação de dados.
+Certificações na Automation Anywhere e freeCodeCamp, habilidades técnicas em RPA, Python e computação científica. Além disso, tenho expertise na análise e visualização de dados, utilizando bibliotecas como Pandas, Seaborn e PySpark. Sou apaixonado por aprender novas tecnologias e compartilhar conhecimento, atuando como mentor para outros desenvolvedores. Meu objetivo é criar soluções inovadoras e eficientes, que agreguem valor aos negócios e às pessoas.
 
-No desenvolvimento web, tenho experiência com Flask e FastAPI, frameworks populares para construção de aplicativos web em Python.
-
-Na automação de processos, possuo experiência com a ferramenta Automation Anywhere (AA360) e também desenvolvo automações utilizando Python e suas bibliotecas, como selenium, bs4, requests e async.
-
-Estou sempre em busca de oportunidades para utilizar minhas habilidades e conhecimentos em prol da melhoria dos processos empresariais, buscando soluções eficientes e automatizadas.
-
+Atualmente, estou expandindo minha habilidade técnica estudando Java com Spring Boot, utilizando JPA para integração com bancos de dados relacionais. Estou desenvolvendo projetos de APIs, utilizando Maven para gerenciamento de dependências e construção de projetos.
 ## Contato
 
 * [Linkedin](https://www.linkedin.com/in/pedrowill-developer-/)
