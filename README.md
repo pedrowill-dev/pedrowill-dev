@@ -21,11 +21,7 @@ Here are some ideas to get you started:
 
 ## Sobre mim
 
-Desenvolvedor RPA e Especialista em Automação, com experiência na otimização de processos empresariais em diversos setores e sistemas. Possuo expertise na criação de soluções personalizadas em automação com Python e Flask, integrando ERPs, bancos de dados, APIs e web services.
-
-Certificações na Automation Anywhere e freeCodeCamp, habilidades técnicas em RPA, Python e computação científica. Além disso, tenho expertise na análise e visualização de dados, utilizando bibliotecas como Pandas, Seaborn e PySpark. Sou apaixonado por aprender novas tecnologias e compartilhar conhecimento, atuando como mentor para outros desenvolvedores. Meu objetivo é criar soluções inovadoras e eficientes, que agreguem valor aos negócios e às pessoas.
-
-Atualmente, estou expandindo minha habilidade técnica estudando Java com Spring Boot, utilizando JPA para integração com bancos de dados relacionais. Estou desenvolvendo projetos de APIs, utilizando Maven para gerenciamento de dependências e construção de projetos.
+Sou um profissional em Automação Robótica de Processos (RPA), com experiência no desenvolvimento de soluções para integração de sistemas ERP e automação de processos. Tenho habilidades em migração e modernização de robôs legados, priorizando desempenho e manutenção simplificada. Além disso, possuo experiência em desenvolvimento e gestão de APIs personalizadas, oferecendo soluções dinâmicas e escaláveis. Também tenho conhecimento em data analytics, incluindo análise e visualização de dados para gerar insights valiosos.
 ## Contato
 
 * [Linkedin](https://www.linkedin.com/in/pedrowill-developer-/)
