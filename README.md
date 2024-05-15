@@ -26,3 +26,4 @@ Sou um profissional em Automação Robótica de Processos (RPA), com experiênci
 
 * [Linkedin](https://www.linkedin.com/in/pedrowill-developer/)
 * [Email](pedrowill.developer@gmail.com)
+* [Youtube](https://www.youtube.com/@criador.robo-rpa)
