@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Sobre mim
 
-Sou um profissional em Automação Robótica de Processos (RPA), com experiência no desenvolvimento de soluções para integração de sistemas ERP e automação de processos. Tenho habilidades em migração e modernização de robôs legados, priorizando desempenho e manutenção simplificada. Além disso, possuo experiência em desenvolvimento e gestão de APIs personalizadas, oferecendo soluções dinâmicas e escaláveis. Também tenho conhecimento em data analytics, incluindo análise e visualização de dados para gerar insights valiosos.
+Profissional RPA com experiência em desenvolvimento de soluções especializadas para integração de sistemas ERP, governamentais e APIs de terceiros, além de automação de processos. Especialista em migração e modernização de robôs legados, priorizando desempenho e manutenção simplificada. Experiência comprovada em desenvolvimento e gestão de APIs personalizadas, oferecendo soluções dinâmicas e escaláveis.
 ## Contato
 
 * [Linkedin](https://www.linkedin.com/in/pedrowill-developer/)
