@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Pedro! 👋
+# Pedro França! 👋
 
 ### Engenheiro Sênior de Automação | Python & Backend | Integração de Sistemas | Engenharia de Dados & IA
 
